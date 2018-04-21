@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is the code for [this]https://www.youtube.com/watch?v=hY9Bc3mtphs() video on Youtube by Siraj Raval as part of the AI for business series. Find the original code and authors [here](https://github.com/mostafachatillon/ChemGAN-challenge). 
+This is the code for [this](https://www.youtube.com/watch?v=hY9Bc3mtphs) video on Youtube by Siraj Raval as part of the AI for business series. Find the original code and authors [here](https://github.com/mostafachatillon/ChemGAN-challenge). 
 
 * Code for the paper: Benhenda, M. 2017. [ChemGAN challenge for drug discovery: can AI reproduce natural chemical diversity? arXiv preprint arXiv:1708.08227.](https://arxiv.org/abs/1708.08227)
 
